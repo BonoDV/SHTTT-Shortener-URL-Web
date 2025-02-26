@@ -1,15 +1,15 @@
 # ✂️ SHTTT
 
-¡Bienvenido/a a [SHTTT](https://shttt.vercel.app), un acortador de enlaces!
+¡Welcome to [SHTTT](https://shttt.vercel.app), an URL shortener!
 
-![Imgur Image](https://i.imgur.com/PztaGAd.png)
+![Image](https://jmbc.vercel.app/projects/shttt.webp)
 
-## 📚 Contenido
-- Página 404
-- Renderizado en el servidor con SSR Vercel
-- Componente interactivo usando React
-- Prisma como ORM
-- Base de Datos MySQL
+## 📚 Content
+- 404 webpage
+- Server render with Vercel SSR
+- React interactive component
+- ORM Prisma
+- MySQL
 
-## 👏 Agradecimientos
-Agradecimientos a [Oliver](https://github.com/OliverSpeir)
+## 👏 Acknowledgments
+Thanks to [Oliver](https://github.com/OliverSpeir)
